@@ -10,6 +10,6 @@ Also watch your scope creep on this project, meaning the amount of features you 
 
 In your .gitignore: You don't need a slash before .DS_Store because it's a file, not a directory. :)
 
-All that said, you definitely hit the mark for the assignment and overall did a great job on putting together a persona that matches your goals. Your Milestone passes at a Tier III!
+All that said, you definitely hit the mark for the assignment and overall did a great job on putting together a persona that matches your goals. Edit: Since your submission was early as well, your milestone passes at a Tier IV!
 
-*Milestone 1: Tier III*
+*Milestone 1: Tier IV*
