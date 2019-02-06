@@ -35,6 +35,5 @@
 		<strong>Contact Us: </strong>
 		This text-box contains all of the information a potential client may need to contact the business. It will contain the address, phone number and e-mail for the company.</p>
 		<p>
-			<img src="./pwp-ms2a-wireframe.bmpr"/>
-			<img src="./pwp-ms2amobile-wireframe.bmpr"/> </p>
+			<img src="./pwp-ms2a-wireframe.pdf"/>
 	</body>
