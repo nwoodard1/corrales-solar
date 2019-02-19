@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<ht lang="en">
 	<head>
 		<meta charset="UTF-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -47,7 +47,15 @@
 		</nav>
 	</div>
 	</header>
-	<!--Carousel of images-->
+
+	<!--Card with logo-->
+	<div class="cards">
+		<div class="container">
+			<div class="row text-center my-5">
+				<div class="col-sm-1 p-1">
+					<img class="rounded-circle img-fluid my-3" src="e.jpg" alt="">
+
+	<!--Carousel of images
 	<div id="carouselExampleFade" class="carousel slide carousel-fade" data-ride="carousel">
 		<div class="carousel-inner">
 			<div class="carousel-item active">
@@ -69,5 +77,11 @@
 			<span class="sr-only">Next</span>
 		</a>
 	</div>
-</body>
+	--->
+	</div>
+	</div>
+	</div>
+	</div>
 </html>
+</body>
+
