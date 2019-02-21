@@ -29,18 +29,17 @@
 			<div class="collapse navbar-collapse" id="navbarTogglerDemo02">
 				<ul class="navbar-nav ml-auto mt-2 mt-md-0">
 					<li class="nav-item active">
-
-						<a class="nav-link" href="#">Design <span class="sr-only">(current)</span></a>
+						<a class="nav-link" href="#design">Design <span class="sr-only">(current)</span></a>
 					</li>
 					<li class="nav-item">
-						<a class="nav-link" href="#">Installation</a>
+						<a class="nav-link" href="#installation">Installation</a>
 					</li>
 					<li class="nav-item">
-						<a class="nav-link" href="#">Services</a>
+						<a class="nav-link" href="#services">Services</a>
 					<li class="nav-item">
-						<a class="nav-link" href="#">Renewable Facts</a>
+						<a class="nav-link" href="#renewableEnergyFacts">Renewable Energy Facts</a>
 					<li class="nav-item">
-						<a class="nav-link" href="#">FAQ</a>
+						<a class="nav-link" href="#FAQ">FAQ</a>
 					</li>
 				</ul>
 			</div>
@@ -49,23 +48,41 @@
 	</header>
 
 	<!--Card with logo-->
-	<div class="cards">
-		<div class="container">
-			<div class="row text-center my-5">
+
+
+		<div class="container ">
+
+			<div class="row text-center d-flex justify-content-right my-5">
 				<div class="col-sm-1 p-1">
 					<img class="rounded-circle img-fluid my-3" src="e.jpg" alt="">
-
-	<!--Carousel of images
+			</div>
+				<div class=" col-10 text-wrap my-2 py-2"<h2> Welcome to Corrales Solar powered by Advantage Energy Solutions, LLC. </h2>
+			</div>
+		</div>
+	<div class="container-fluid">
+		<div class="row">
+		</div>
+			</div>
+		<div class="col-sm-9">
+			<div class="container my-auto py-5"
+				<div class="Welcome">Welcome to our official website. Please have a look around and contact us with any questions or comments.
+	</div>
+		</div>
+	<!--Carousel of images--->
 	<div id="carouselExampleFade" class="carousel slide carousel-fade" data-ride="carousel">
+		<div class="row">
+			<div class="col-md-2 py-2"
+			</div>
+		</div>
 		<div class="carousel-inner">
 			<div class="carousel-item active">
-				<img src="..." class="d-block w-100" alt="...">
+				<img src="e.jpg" class="d-block w-50" alt="...">
 			</div>
 			<div class="carousel-item">
-				<img src="..." class="d-block w-100" alt="...">
+				<img src="e.jpg" class="d-block w-100" alt="...">
 			</div>
 			<div class="carousel-item">
-				<img src="..." class="d-block w-100" alt="...">
+				<img src="e.jpg" class="d-block w-100" alt="...">
 			</div>
 		</div>
 		<a class="carousel-control-prev" href="#carouselExampleFade" role="button" data-slide="prev">
@@ -77,11 +94,17 @@
 			<span class="sr-only">Next</span>
 		</a>
 	</div>
-	--->
-	</div>
-	</div>
-	</div>
-	</div>
+
+	<footer>
+		<div class="container-fluid bg-dark py-4 text-white-50">
+			<footer class="page-footer">
+				<div class="row">
+					<div class="col">
+						<p class="text-left">Contact Us: (505) 615-9388  Corrales, NM  corrales.solar@gmail.com
+					</div>
+				</div>
+			</div
+	</footer>
 </html>
 </body>
 
