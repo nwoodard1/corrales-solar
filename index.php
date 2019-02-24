@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<ht lang="en">
+<html lang="en">
 	<head>
 		<meta charset="UTF-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -17,7 +17,7 @@
 		<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
 
 	</head>
-<body>
+	<body>
 	<!---header--->
 	<header>
 	<div class="container">
@@ -54,7 +54,7 @@
 
 			<div class="row text-center d-flex justify-content-right my-5">
 				<div class="col-sm-1 p-1">
-					<img class="rounded-circle img-fluid my-3" src="e.jpg" alt="">
+					<img class="rounded-circle img-fluid my-3" src="e.jpg" alt="company logo">
 			</div>
 				<div class=" col-10 text-wrap my-2 py-2"<h2> Welcome to Corrales Solar powered by Advantage Energy Solutions, LLC. </h2>
 			</div>
@@ -63,12 +63,30 @@
 		<div class="row">
 		</div>
 			</div>
-		<div class="col-sm-9">
-			<div class="container my-auto py-5"
-				<div class="Welcome">Welcome to our official website. Please have a look around and contact us with any questions or comments.
-	</div>
+
+		<!---mission statement--->
+		<div class="container-fluid bg-secondary">
+			<div class="row">
+				<div class="col-sm-3">
+					<!--<div class="container my-auto py-5">
+						<img class="img-fluid" src="./graycat.jpg" alt="Gray cat looking upset">
+					</div>--->
+				</div>
+				<div class="col-sm-9">
+					<div class="container my-auto py-5">
+						<p class="mission statement">
+							Welcome to our official website. Please have a look around and contact us with any questions or comments. Our mission is providing clear customer education, thoughtful design, fair pricing with quality components, careful installation, and responsive service.
+						</p>
+					</div>
+				</div>
+			</div>
 		</div>
-	<!--Carousel of images--->
+
+
+
+
+
+		<!---Carousel of images--->
 	<div id="carouselExampleFade" class="carousel slide carousel-fade" data-ride="carousel">
 		<div class="row">
 			<div class="col-md-2 py-2"
@@ -76,13 +94,13 @@
 		</div>
 		<div class="carousel-inner">
 			<div class="carousel-item active">
-				<img src="e.jpg" class="d-block w-50" alt="...">
+				<img src="BillMurrayFiller3.jpg" class="d-block w-50" alt="...">
 			</div>
 			<div class="carousel-item">
-				<img src="e.jpg" class="d-block w-100" alt="...">
+				<img src="BillMurrayFiller2.jpg" class="d-block w-100" alt="...">
 			</div>
 			<div class="carousel-item">
-				<img src="e.jpg" class="d-block w-100" alt="...">
+				<img src="BillMurrayFiller.jpg" class="d-block w-100" alt="...">
 			</div>
 		</div>
 		<a class="carousel-control-prev" href="#carouselExampleFade" role="button" data-slide="prev">
@@ -93,7 +111,7 @@
 			<span class="carousel-control-next-icon" aria-hidden="true"></span>
 			<span class="sr-only">Next</span>
 		</a>
-	</div>
+
 
 	<footer>
 		<div class="container-fluid bg-dark py-4 text-white-50">
@@ -105,6 +123,6 @@
 				</div>
 			</div
 	</footer>
-</html>
 </body>
+</html>
 
