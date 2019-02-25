@@ -15,7 +15,12 @@
 		<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
 		<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
 		<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+		<!-- Google reCAPTCHA -->
+		<script src='https://www.google.com/recaptcha/api.js'></script>
 
+		<style>
+			<span class="metadata-marker" style="display: none;" data-region_tag="css"></span>/* Set the size of the div element that contains the map */ #map {height: 400px;  /* The height is 400 pixels */width: 100%;  /* The width is the width of the web page */}
+		</style>
 	</head>
 	<body>
 	<!---header--->
@@ -56,7 +61,7 @@
 				<div class="col-sm-1 p-1">
 					<img class="rounded-circle img-fluid my-3" src="e.jpg" alt="company logo">
 			</div>
-				<div class=" col-10 text-wrap my-2 py-2"<h2> Welcome to Corrales Solar powered by Advantage Energy Solutions, LLC. </h2>
+				<div class=" col-10 text-wrap my-2 py-2"<h1><strong>Welcome to Corrales Solar powered by Advantage Energy Solutions, LLC.</strong></h1>
 			</div>
 		</div>
 	<div class="container-fluid">
@@ -65,13 +70,8 @@
 			</div>
 
 		<!---mission statement--->
-		<div class="container-fluid bg-secondary">
+		<div class="container-fluid">
 			<div class="row">
-				<div class="col-sm-3">
-					<!--<div class="container my-auto py-5">
-						<img class="img-fluid" src="./graycat.jpg" alt="Gray cat looking upset">
-					</div>--->
-				</div>
 				<div class="col-sm-9">
 					<div class="container my-auto py-5">
 						<p class="mission statement">
@@ -82,9 +82,62 @@
 			</div>
 		</div>
 
+		<!---Section for connected nav bar links--->
+		<div class="container-fluid">
+			<div class="row">
+				<div class="col-sm-9">
+					<div class="container my-auto py-5">
+						<p class="Design">This is where information about design will go
+						</p>
+					</div>
+				</div>
+				</div>
+		</div>
 
+		<div class="container-fluid">
+			<div class="row">
+				<div class="col-sm-9">
+					<div class="container my-auto py-5">
+						<p class="Installation">This is where information about installation will go
+						</p>
+					</div>
+				</div>
+			</div>
+		</div>
 
+		<div class="container-fluid">
+			<div class="row">
+				<div class="col-sm-9">
+					<div class="container my-auto py-5">
+						<p class="Services">This is where information about services will go
+						</p>
+					</div>
+				</div>
+			</div>
+		</div>
 
+		<div class="container-fluid">
+			<div class="row">
+				<div class="col-sm-9">
+					<div class="container my-auto py-5">
+						<p class="Renewable Energy Facts">This is where information about renewable energy facts will go
+						</p>
+					</div>
+				</div>
+			</div>
+		</div>
+
+		<div class="container-fluid">
+			<div class="row">
+				<div class="col-sm-9">
+					<div class="container my-auto py-5">
+						<p class="FAQ">This is where frequently asked questions will be answered
+						</p>
+					</div>
+				</div>
+			</div>
+		</div>
+<!--end of nav bar links--->
 
 		<!---Carousel of images--->
 	<div id="carouselExampleFade" class="carousel slide carousel-fade" data-ride="carousel">
@@ -112,8 +165,22 @@
 			<span class="sr-only">Next</span>
 		</a>
 
+		<span class="metadata-marker" style="display: none;" data-region_tag="html-body"></span><h3>Locate us</h3>
+		<!--The div element for the map -->
+		<div id="map"></div>
+		<script>
+			<span class="metadata-marker" style="display: none;" data-region_tag="script-body"></span>// Initialize and add the map
+		</script>
+		<!--Load the API from the specified URL
+		* The async attribute allows the browser to render the page while the API loads
+		* The key parameter will contain your own API key (which is not needed for this tutorial)
+		* The callback parameter executes the initMap() function
+		-->
+		<script async defer
+				  src="https://maps.googleapis.com/maps/api/js?key=YOUR_API_KEY&callback=initMap">
+		</script>
 
-	<footer>
+		<footer>
 		<div class="container-fluid bg-dark py-4 text-white-50">
 			<footer class="page-footer">
 				<div class="row">
