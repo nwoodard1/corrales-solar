@@ -71,11 +71,11 @@
 
 		<!---mission statement--->
 		<div class="container-fluid">
-			<div class="row">
+			<div class="row text-center d-flex justify-content-center">
 				<div class="col-sm-9">
 					<div class="container my-auto py-5">
 						<p class="mission statement">
-							Welcome to our official website. Please have a look around and contact us with any questions or comments. Our mission is providing clear customer education, thoughtful design, fair pricing with quality components, careful installation, and responsive service.
+							Welcome to our official website. Please look around and contact us with any questions or comments. We believe that anyone can be a part of energy conservation on a small scale, and we would like to help people reach this goal at an affordable cost. Our mission is providing clear customer education, thoughtful design, fair pricing with quality components, careful installation, and responsive service.
 						</p>
 					</div>
 				</div>
@@ -83,56 +83,67 @@
 		</div>
 
 		<!---Section for connected nav bar links--->
+		<!--A fancy line-->
+		<hr class="my-4">
+
 		<div class="container-fluid">
-			<div class="row">
+			<div class="row text-center d-flex justify-content-center">
 				<div class="col-sm-9">
 					<div class="container my-auto py-5">
-						<p class="Design">This is where information about design will go
-						</p>
+						<p class="Design"><h2>Design</h2>This is where information about design will go.
+						Plays league of legends making sure that fluff gets into the owner's eyes or touch water with paw then recoil in horror the cat was chasing the mouse but eat a rug and furry furry hairs everywhere oh no human coming lie on counter don't get off counter or loved it, hated it, loved it, hated it twitch tail in permanent irritation. Check cat door for ambush 10 times before coming in disappear for four days and return home with an expensive injury; bite the vet instead of drinking water from the cat bowl, make sure to steal water from the toilet. Cats go for world domination. Ooh, are those your $250 dollar sandals?
 					</div>
 				</div>
 				</div>
 		</div>
+		<!--A fancy line-->
+		<hr class="my-4">
 
 		<div class="container-fluid">
-			<div class="row">
+			<div class="row text-center d-flex justify-content-center">
 				<div class="col-sm-9">
 					<div class="container my-auto py-5">
-						<p class="Installation">This is where information about installation will go
-						</p>
-					</div>
-				</div>
-			</div>
-		</div>
-
-		<div class="container-fluid">
-			<div class="row">
-				<div class="col-sm-9">
-					<div class="container my-auto py-5">
-						<p class="Services">This is where information about services will go
-						</p>
+						<p class="Installation"><h2>Installation</h2>This is where information about installation will go.
+						Chew foot flex claws on the human's belly and purr like a lawnmower for get video posted to internet for chasing red dot. Really likes hummus spend all night ensuring people don't sleep sleep all day stare at owner accusingly then wink for making sure that fluff gets into the owner's eyes throw down all the stuff in the kitchen hunt by meowing loudly at 5am next to human slave food dispenser.
 					</div>
 				</div>
 			</div>
 		</div>
+		<!--A fancy line-->
+		<hr class="my-4">
 
 		<div class="container-fluid">
-			<div class="row">
+			<div class="row text-center d-flex justify-content-center">
 				<div class="col-sm-9">
 					<div class="container my-auto py-5">
-						<p class="Renewable Energy Facts">This is where information about renewable energy facts will go
-						</p>
+						<p class="Services"><h2>Services</h2>This is where information about services will go.
+						Check cat door for ambush 10 times before coming in disappear for four days and return home with an expensive injury; bite the vet instead of drinking water from the cat bowl, make sure to steal water from the toilet. Cats go for world domination. Ooh, are those your $250 dollar sandals? lemme use that as my litter box. Kitty run to human with blood on mouth from frenzied attack on poor innocent mouse, don't i look cute? my slave human didn't give me any food so i pooped on the floor, for purr when being pet kitty scratches couch bad kitty.
 					</div>
 				</div>
 			</div>
 		</div>
+		<!--A fancy line-->
+		<hr class="my-4">
 
 		<div class="container-fluid">
-			<div class="row">
+			<div class="row text-center d-flex justify-content-center">
 				<div class="col-sm-9">
 					<div class="container my-auto py-5">
-						<p class="FAQ">This is where frequently asked questions will be answered
-						</p>
+						<p class="Renewable Energy Facts"><h2>Renewable Energy Facts</h2>This is where information about renewable energy facts will go.
+						Cat not kitten around demand to be let outside at once, and expect owner to wait for me as i think about it fight an alligator and win eat too much then proceed to regurgitate all over living room carpet while humans eat dinner kitten is playing with dead mouse so if it fits i sits adventure always. Meow all night having their mate disturbing sleeping humans. Wake up wander around the house making large amounts of noise jump on top of your human's bed and fall asleep again lick face hiss at owner, pee a lot, and meow repeatedly scratch at fence purrrrrr eat muffins and poutine until owner comes back so nya nya nyan and walk on car leaving trail of paw prints on hood and windshield attack the child bathe private parts with tongue then lick owner's face. Eat all the power cords cat slap dog in face so suddenly go on wild-eyed crazy rampage so mark territory, but i like fish hunt anything that moves. Get suspicious of own shadow then go play with toilette paper eat all the power cords attack dog, run away and pretend to be victim step on your keyboard while you're gaming and then turn in a circle caticus cuteicus chew foot love to play with owner's hair tie.
+					</div>
+				</div>
+			</div>
+		</div>
+		<!--A fancy line-->
+		<hr class="my-4">
+
+		<div class="container-fluid">
+			<div class="row text-center d-flex justify-content-center">
+				<div class="col-sm-9">
+					<div class="container my-auto py-5">
+						<p class="FAQ"><h2>Frequently Asked Questions</h2>This is where frequently asked questions will be answered.
+						Cat cat moo moo lick ears lick paws meow all night having their mate disturbing sleeping humans but flex claws on the human's belly and purr like a lawnmower and groom forever, stretch tongue and leave it slightly out, blep. Pretend not to be evil. Kick up litter. Plays league of legends making sure that fluff gets into the owner's eyes or touch water with paw then recoil in horror the cat was chasing the mouse but eat a rug and furry furry hairs everywhere oh no human coming lie on counter don't get off counter or loved it, hated it, loved it, hated it twitch tail in permanent irritation.
 					</div>
 				</div>
 			</div>
@@ -157,19 +168,20 @@
 			</div>
 		</div>
 		<a class="carousel-control-prev" href="#carouselExampleFade" role="button" data-slide="prev">
-			<span class="carousel-control-prev-icon" aria-hidden="true"></span>
+			<span class="carousel-control-prev-icon" aria-hidden="true"
 			<span class="sr-only">Previous</span>
 		</a>
 		<a class="carousel-control-next" href="#carouselExampleFade" role="button" data-slide="next">
-			<span class="carousel-control-next-icon" aria-hidden="true"></span>
+			<span class="carousel-control-next-icon" aria-hidden="true"
 			<span class="sr-only">Next</span>
 		</a>
-
-		<span class="metadata-marker" style="display: none;" data-region_tag="html-body"></span><h3>Locate us</h3>
+<div></div>
+		<span class="metadata-marker" style="display: none;" data-region_tag="html-body"></span><h4>Locate us</h4>
 		<!--The div element for the map -->
 		<div id="map"></div>
 		<script>
-			<span class="metadata-marker" style="display: none;" data-region_tag="script-body"></span>// Initialize and add the map
+		<span class="metadata-marker" style="display: none;" data-region_tag="script-body"></span>
+		<!--Initialize and add the map-->
 		</script>
 		<!--Load the API from the specified URL
 		* The async attribute allows the browser to render the page while the API loads
@@ -180,6 +192,45 @@
 				  src="https://maps.googleapis.com/maps/api/js?key=YOUR_API_KEY&callback=initMap">
 		</script>
 
+
+		<!-----Contact Form----->
+
+		<!--Contact Me-->
+		<section id="contactMe">
+			<div class="container contact-form border rounded text-white py-5 px-5 text-wrap">
+				<form method="post">
+					<h3>Send Me a Message</h3>
+					<div class="row">
+						<div class="col-md-6">
+							<div class="form-group">
+								<input type="text" name="txtName" class="form-control" placeholder="Your Name *" value="" />
+							</div>
+							<div class="form-group">
+								<input type="text" name="txtEmail" class="form-control" placeholder="Your Email *" value="" />
+							</div>
+							<div class="form-group">
+								<input type="text" name="txtPhone" class="form-control" placeholder="Your Phone Number *" value="" />
+							</div>
+							<div class="form-group">
+								<input type="submit" name="btnSubmit" class="btnContact" value="Send Message" />
+							</div>
+						</div>
+						<div class="col-md-6">
+							<div class="form-group">
+								<textarea name="txtMsg" class="form-control" placeholder="Your Message *" style="width: 100%; height: 150px;"></textarea>
+							</div>
+						</div>
+					</div>
+				</form>
+			</div>
+		</section>
+
+
+
+
+
+
+		<!-----footer-->
 		<footer>
 		<div class="container-fluid bg-dark py-4 text-white-50">
 			<footer class="page-footer">
