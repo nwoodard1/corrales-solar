@@ -18,10 +18,28 @@
 		<!-- Google reCAPTCHA -->
 		<script src='https://www.google.com/recaptcha/api.js'></script>
 
+
+
+		<!-- jQuery Form, Additional Methods, Validate -CONTACT FORM--->
+		<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery.form/4.2.2/jquery.form.min.js"></script>
+		<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.17.0/jquery.validate.min.js"></script>
+		<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.17.0/additional-methods.min.js"></script>
+
+		<!-- Your JavaScript Form Validator -->
+		<script src="js/form-validate.js"></script>
+
+		<!-- Google reCAPTCHA -->
+		<script src='https://www.google.com/recaptcha/api.js'></script>
+		<!---end of contact form links---->
+
+<!-----GOOGLE MAPS API------->
 		<style>
 			<span class="metadata-marker" style="display: none;" data-region_tag="css"></span>/* Set the size of the div element that contains the map */ #map {height: 400px;  /* The height is 400 pixels */width: 100%;  /* The width is the width of the web page */}
 		</style>
+		<!---end google maps API--->
 	</head>
+
+
 	<body>
 	<!---header--->
 	<header>
@@ -82,7 +100,7 @@
 			</div>
 		</div>
 
-		<!---Section for connected nav bar links--->
+		<!---Sections for connected nav bar links--->
 		<!--A fancy line-->
 		<hr class="my-4">
 
@@ -195,8 +213,7 @@
 
 		<!-----Contact Form----->
 
-		<!--Contact Me-->
-		<section id="contactMe">
+		<section id="contact us">
 			<div class="container contact-form border rounded text-white py-5 px-5 text-wrap">
 				<form method="post">
 					<h3>Send Me a Message</h3>
