@@ -109,10 +109,10 @@
 			</div>
 		</div>
 
-		<!---Sections for connected nav bar links--->
+
 		<!--A fancy line-->
 		<hr class="my-4">
-
+		<section id="design">
 		<div class="container-fluid">
 			<div class="row text-center d-flex justify-content-center">
 				<div class="col-sm-9">
@@ -130,9 +130,11 @@
 				</div>
 			</div>
 		</div>
+		</section>
+
 		<!--A fancy line-->
 		<hr class="my-4">
-
+<section id="installation">
 		<div class="container-fluid">
 			<div class="row text-center d-flex justify-content-center">
 				<div class="col-sm-9">
@@ -147,9 +149,10 @@
 				</div>
 			</div>
 		</div>
+</section>
 		<!--A fancy line-->
 		<hr class="my-4">
-
+<section id="services">
 		<div class="container-fluid">
 			<div class="row text-center d-flex justify-content-center">
 				<div class="col-sm-9">
@@ -166,9 +169,10 @@
 				</div>
 			</div>
 		</div>
+</section>
 		<!--A fancy line-->
 		<hr class="my-4">
-
+<section id="renewableEnergyFacts">
 		<div class="container-fluid">
 			<div class="row text-center d-flex justify-content-center">
 				<div class="col-sm-9">
@@ -191,9 +195,10 @@
 				</div>
 			</div>
 		</div>
+</section>
 		<!--A fancy line-->
 		<hr class="my-4">
-
+<section id="FAQ">
 		<div class="container-fluid">
 			<div class="row text-center d-flex justify-content-center">
 				<div class="col-sm-9">
@@ -210,9 +215,10 @@
 				</div>
 			</div>
 		</div>
-		<!--end of nav bar links--->
+</section>
 
-		<!---Carousel of images--->
+
+		<!---Carousel of images
 		<div id="carouselExampleFade" class="carousel slide carousel-fade" data-ride="carousel">
 			<div class="row">
 				<div class="col-md-2 py-2"
@@ -237,27 +243,17 @@
 			<span class="carousel-control-next-icon" aria-hidden="true"
 			<span class="sr-only">Next</span>
 		</a>
-		<div></div>
-		<span class="metadata-marker" style="display: none;" data-region_tag="html-body"></span><h4>Locate us</h4>
-		<!--The div element for the map -->
-		<div id="map"></div>
-		<script>
-			<span class="metadata-marker" style="display: none;" data-region_tag="script-body"></span>
-			<!--Initialize and add the map-->
-		</script>
-		<!--Load the API from the specified URL
-		* The async attribute allows the browser to render the page while the API loads
-		* The key parameter will contain your own API key (which is not needed for this tutorial)
-		* The callback parameter executes the initMap() function
-		-->
-		<script async defer
-				  src="https://maps.googleapis.com/maps/api/js?key=YOUR_API_KEY&callback=initMap">
-		</script>
-
+		---->
 
 		<!-----Contact Form----->
 
 		<section id="contactWrapper">
+			<div class="container">
+
+
+				<iframe src="https://www.google.com/maps/d/embed?mid=1WPkErNGnttL9KbCcmeCneZYMqH4Jgm1N" width="480" height="360"></iframe>
+
+			</div>
 			<div class="container contact-form border rounded text-white py-5 px-5 text-wrap">
 				<form id="contactMe" action="php/mailer.php" method="post">
 					<h3>Send Me a Message</h3>
