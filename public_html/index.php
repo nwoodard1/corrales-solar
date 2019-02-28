@@ -218,7 +218,7 @@
 
 
 		<!-----Contact Form----->
-
+<form>
 		<section id="contactWrapper">
 			<div class="container">
 
@@ -241,37 +241,36 @@
 								<input type="text" name="contactPhone" class="form-control" placeholder="Phone Number"
 										 value=""/>
 							</div>
-
-							<!-- reCAPTCHA -->
-							<div class="g-recaptcha col-md-6 float-left" data-sitekey="6LfKEpQUAAAAAA98OHTFmk9jpsrPh170gSaih6u6"></div>
-
-						<div class="row col-md-6 float-right"
-								<input type="submit" name="btnSubmit" class="btnContact" value="Send Message"/>
-							</div>
+						</div>
 
 						<div class="col-md-6">
-						<div class="form-group">
-							<input type="text" name="contactSubject" class="form-control" placeholder="Subject *"
-									 value=""/>
-						</div>
-
 							<div class="form-group">
+								<input type="text" name="contactSubject" class="form-control" placeholder="Subject *"
+										 value=""/>
+							</div>
+
 								<textarea name="txtMsg" class="form-control" placeholder="Your Message *"
 											 style="width: 100%; height: 150px;"></textarea>
+							<input type="submit" name="btnSubmit" class="btnContact" value="Send Message"/>
+						</div>
 							</div>
+
+						<div class="col-md">
 						</div>
 						</div>
-					</div>
-				</form>
-			</div>
+							</div>
+<div class="row justify-content-center py-1 my-2">
+	<div class="g-recaptcha col-md-6" data-sitekey="6LfKEpQUAAAAAA98OHTFmk9jpsrPh170gSaih6u6"></div>
+</div>
 		</section>
+</form>
 		<!---end contact form--->
 		<div id="output-area"></div>
 
 
 		<!-----footer-->
 		<footer>
-			<div class="container-fluid bg-dark py-4 text-white-50">
+			<div class="container-fluid bg-dark pt-1 pb-1 text-white-50">
 				<footer class="page-footer">
 					<div class="row">
 						<div class="col">
