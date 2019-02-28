@@ -81,7 +81,7 @@
 
 			<div class="row text-center d-flex justify-content-right my-5">
 				<div class="col-sm-1 p-1">
-					<img class="rounded-circle img-fluid my-3" src="../e.jpg" alt="company logo">
+					<img class="rounded-circle img-fluid my-3" src="images/e.jpg" alt="company logo">
 				</div>
 				<div class=" col-10 text-wrap my-2 py-2"
 				<h1><strong>Welcome to Corrales Solar powered by Advantage Energy Solutions, LLC.</strong></h1>
@@ -118,14 +118,7 @@
 				<div class="col-sm-9">
 					<div class="container my-auto py-5">
 						<p class="Design">
-						<h2>Design</h2>This is where information about design will go.
-						Plays league of legends making sure that fluff gets into the owner's eyes or touch water with paw then
-						recoil in horror the cat was chasing the mouse but eat a rug and furry furry hairs everywhere oh no
-						human coming lie on counter don't get off counter or loved it, hated it, loved it, hated it twitch
-						tail in permanent irritation. Check cat door for ambush 10 times before coming in disappear for four
-						days and return home with an expensive injury; bite the vet instead of drinking water from the cat
-						bowl, make sure to steal water from the toilet. Cats go for world domination. Ooh, are those your $250
-						dollar sandals?
+						<h2>Design</h2>We work with owners to size a solar system that will offset as much power as possible, but no more than necessary, using the National Renewable energy Laboratory's PV Watts estimation program.
 					</div>
 				</div>
 			</div>
@@ -140,11 +133,8 @@
 				<div class="col-sm-9">
 					<div class="container my-auto py-5">
 						<p class="Installation">
-						<h2>Installation</h2>This is where information about installation will go.
-						Chew foot flex claws on the human's belly and purr like a lawnmower for get video posted to internet
-						for chasing red dot. Really likes hummus spend all night ensuring people don't sleep sleep all day
-						stare at owner accusingly then wink for making sure that fluff gets into the owner's eyes throw down
-						all the stuff in the kitchen hunt by meowing loudly at 5am next to human slave food dispenser.
+						<h2>Installation</h2>
+						All Advantage Energy Solutions, LLC and Corrales Solar designs are installed through a contract between the homeowner and Compass Electric Company, a licensed and insured Albuquerque company with extensive experience in solar installation.
 					</div>
 				</div>
 			</div>
@@ -158,13 +148,8 @@
 				<div class="col-sm-9">
 					<div class="container my-auto py-5">
 						<p class="Services">
-						<h2>Services</h2>This is where information about services will go.
-						Check cat door for ambush 10 times before coming in disappear for four days and return home with an
-						expensive injury; bite the vet instead of drinking water from the cat bowl, make sure to steal water
-						from the toilet. Cats go for world domination. Ooh, are those your $250 dollar sandals? lemme use that
-						as my litter box. Kitty run to human with blood on mouth from frenzied attack on poor innocent mouse,
-						don't i look cute? my slave human didn't give me any food so i pooped on the floor, for purr when
-						being pet kitty scratches couch bad kitty.
+						<h2>Services</h2>Residential or Commercial
+						We can design and oversee installation of PV systems ranging from small, pole-mounted, -grid arrays to  much larger grid-tied rooftop arrays. We are familiar with the application and commissioning process with New Mexico utilities, and the permitting requirements of various municipalities. We provide free site visits and estimates.
 					</div>
 				</div>
 			</div>
@@ -198,52 +183,39 @@
 </section>
 		<!--A fancy line-->
 		<hr class="my-4">
+		<div class="row text-center d-flex justify-content-center">
+		<h2>Frequently Asked Questions</h2>
+		</div>
+
 <section id="FAQ">
+	<div class="row text-left d-flex justify-content-left">
 		<div class="container-fluid">
-			<div class="row text-center d-flex justify-content-center">
+			<div class="row text-left d-flex justify-content-left">
 				<div class="col-sm-9">
 					<div class="container my-auto py-5">
 						<p class="FAQ">
-						<h2>Frequently Asked Questions</h2>This is where frequently asked questions will be answered.
-						Cat cat moo moo lick ears lick paws meow all night having their mate disturbing sleeping humans but
-						flex claws on the human's belly and purr like a lawnmower and groom forever, stretch tongue and leave
-						it slightly out, blep. Pretend not to be evil. Kick up litter. Plays league of legends making sure
-						that fluff gets into the owner's eyes or touch water with paw then recoil in horror the cat was
-						chasing the mouse but eat a rug and furry furry hairs everywhere oh no human coming lie on counter
-						don't get off counter or loved it, hated it, loved it, hated it twitch tail in permanent irritation.
+
+							<p>Q: How does solar PV work?</p>
+							<p>A: Sunlight hits the solar panels, where photons are converted to a direct current (DC). The direct current is routed to an inverter, which changes it to alternating current (AC). In a grid-tied system, the inverter locks onto the utility power and frequency, and, if more power is being made than is being used, the power flows onto the grid.</p>
+							<p>Q: What is net metering?</p>
+							<p>A: A qualified generation system must be allowed to push power onto the grid. Net metering is the process of compensation for the owner of the generator. Different utilities interpret net metering differently. In the PNM Small Solar Program, with inverter(s) no larger than 10kW AC, power that is pushed onto the grid becomes a credit, which may be used at a later date. The PNM Large Solar Program does not have the credit carryover provision.</p>
+							<p>Q: What is a kilowatt hour?</p>
+							<p>A: A kilowatt hour (kWh) is the basic unit of power consumption. Your utility bill provides a total of how many kWh you used in a month. A kilowatt (kW) is 1,000 watts, and a kilowatt hour is 1,000 watts of power used for one  hour. It may be compared to ten 100-watt lamps on for one hour.</p>
+							<p>Q: How are PV systems sized?</p>
+							<p>A: A PV system is generally sized in kilowatts (kW) of DC power. The size in watts of each panel times the number of panels divided by 1000 is the kW size of a system.</p>
+							<p>Q: How do I know how much PV I need?</p>
+							<p>A: Within the PNM Small PV Program, the economic sweet spot is an offset of all of your annual use, or a bit less. First total twelve months of your monthly usage in kWh to get your annual usage. A good rule of thumb in the Albuquerque area is that a PV system will produce 5 kWh per DC kW of system size per day. Divide the total annual kWh by 5, then by 365 to come up with an estimated of the size in DC kW. For example, the average PNM customer averages 600 kWh/month, so 12 X 600 = 7200 kWh/year. 7200 / 5 / 365 = 3.94 kW.</p>
+							<p>Q: Can't I oversize my system and have PNM pay me for power?</p>
+							<p>A: It does not work out economically to oversize, under either of PNM's Solar Programs. With the Small Program, you wind up with a credit that is only good if you use it, and with the Large Program, you are paid for excess power at PNM's wholesale cost.</p>
+							<p>Q: How much does a PV system cost?</p>
+							<p>A: The cost of a PV system depends on a few factors, such as the price of panels, the type of mount, and the type of inverter(s). Premium high-efficiency panels can be expensive, and are best used where space for panels is limited. Any roof mount is less expensive than a ground mount, and flush mounts on a pitched roof are less expensive than ballast mounts on a flat roof. Microinverters are cost effective for a small system, but become much more expensive than string inverters in large system. Large systems in general are less expensive per watt than small systems. A ballpark working number would be in the range of $2.25 to $3.25/watt.</p>
 					</div>
 				</div>
 			</div>
 		</div>
+		</div>
 </section>
 
-
-		<!---Carousel of images
-		<div id="carouselExampleFade" class="carousel slide carousel-fade" data-ride="carousel">
-			<div class="row">
-				<div class="col-md-2 py-2"
-			</div>
-		</div>
-		<div class="carousel-inner">
-			<div class="carousel-item active">
-				<img src="../BillMurrayFiller3.jpg" class="d-block w-50" alt="...">
-			</div>
-			<div class="carousel-item">
-				<img src="../BillMurrayFiller2.jpg" class="d-block w-100" alt="...">
-			</div>
-			<div class="carousel-item">
-				<img src="../BillMurrayFiller.jpg" class="d-block w-100" alt="...">
-			</div>
-		</div>
-		<a class="carousel-control-prev" href="#carouselExampleFade" role="button" data-slide="prev">
-			<span class="carousel-control-prev-icon" aria-hidden="true"
-			<span class="sr-only">Previous</span>
-		</a>
-		<a class="carousel-control-next" href="#carouselExampleFade" role="button" data-slide="next">
-			<span class="carousel-control-next-icon" aria-hidden="true"
-			<span class="sr-only">Next</span>
-		</a>
-		---->
 
 		<!-----Contact Form----->
 
@@ -273,7 +245,7 @@
 							<!-- reCAPTCHA -->
 							<div class="g-recaptcha col-md-6 float-left" data-sitekey="6LfKEpQUAAAAAA98OHTFmk9jpsrPh170gSaih6u6"></div>
 
-
+						<div class="row col-md-6 float-right"
 								<input type="submit" name="btnSubmit" class="btnContact" value="Send Message"/>
 							</div>
 
@@ -288,9 +260,7 @@
 											 style="width: 100%; height: 150px;"></textarea>
 							</div>
 						</div>
-
 						</div>
-
 					</div>
 				</form>
 			</div>
@@ -308,10 +278,7 @@
 							<p class="text-left">Contact Us: (505) 615-9388 Corrales, NM corrales.solar@gmail.com
 						</div>
 					</div>
-
 			</div>
-
-
 		</footer>
 	</body>
 </html>
