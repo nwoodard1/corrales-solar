@@ -156,95 +156,46 @@
 
 		<!--A fancy line-->
 		<hr class="my-4">
-
-
-
-	<section id="installation">
-		<div class="container-fluid bg-secondary">
+	<section id=installation">
+		<div class="container-fluid my-auto py-5 bg-secondary">
 			<div class="row text-center d-flex">
-				<div class="col-md-6">
-					<div class="container my-auto py-5">
+				<div class="col-md-12">
+					<div class="container"></div>
 						<div class="col-md-6">
 							<img src="images/corralessolar3.jpg" height="400" width="600"
 						</div>
-					</div>
 				</div>
 				<div class="col-md-6">
-					<div class="container my-auto py-5">
 
 
-
-
-
-
-		<!--<div class="container-fluid">
-			<div class="row text-center d-flex justify-content-center">
-				<div class="col-sm-9">--->
-					<div class="container my-auto py-5">
-						<p class="Installation">
-
-						<h2>Installation</h2>
+					<h2>Installation</h2>
 						All Advantage Energy Solutions, LLC and Corrales Solar designs are installed through a contract between the homeowner and Compass Electric Company, a licensed and insured Albuquerque company with extensive experience in solar installation.
-					<!---</div>
 				</div>
 			</div>
 		</div>
-</section>---!>
-
-
-	</p>
-				</div>
-			</div>
-		</div>
-	</div>
 </section>
 
 
 
 		<!--A fancy line-->
 		<hr class="my-4">
-<section id="services">
-		<div class="container-fluid">
-			<!---<div class="row text-center text-wrap d-flex justify-content-center">
-				<div class="col-sm-9">
-					<div class="col-md-6">
-						<img src="images/corralessolar4.jpg" height="400" width="600"
-					</div>
-					<div class="container my-auto py-5">--->
-
-
-			<section>
+<section class="services">
 				<div class="container-fluid bg-light">
 					<div class="row">
-						<div class="col-md-">
 							<div class="col-md-6">
 								<img src="images/corralessolar4.jpg" height="400" width="600"
 							</div>
-						</div>
 						<div class="col-md-6">
 							<div class="container my-auto py-5">
 
-
-
-
-						<p class="Services">
+								<p class="Services">
 						<h2>Services</h2>Residential or Commercial
 						We can design and oversee installation of PV systems ranging from small, pole-mounted, -grid arrays to  much larger grid-tied rooftop arrays. We are familiar with the application and commissioning process with New Mexico utilities, and the permitting requirements of various municipalities. We provide free site visits and estimates.
 					</div>
-				<!---</div>
-			</div>
-		</div>
-</section>
-
-		</p>
+						</div>
+					</div>
 				</div>
-			</div>
-		</div>
-	</div>
-</section>
-
-
-
+					</section>
 
 		<!---A fancy line--->
 		<hr class="my-4">
@@ -258,8 +209,8 @@
 
 <section id="renewableEnergyFacts">
 		<div class="container-fluid">
-			<div class="row text-left d-flex justify-content-left">
-				<div class="col-md-12">
+			<div class="row">
+				<div class="col-md-12 text-left d-flex justify-content ">
 					<div class="container">
 						<p class="Renewable Energy Facts">
 						<ul class="justify-content-center col-md-12">
@@ -320,10 +271,10 @@
 				<iframe src="https://www.google.com/maps/d/embed?mid=1WPkErNGnttL9KbCcmeCneZYMqH4Jgm1N" width="480" height="360"></iframe>
 			</div>
 
+			<form>
 			<div class="contactWrapper">
 				<div class="form-wrapper">
 			</div>
-				<form>
 			<div class="container contact-form border rounded text-white py-5 px-5 text-wrap">
 				<form id="contactMe" action="php/mailer.php" method="post">
 					<div class="row">
@@ -346,7 +297,6 @@
 								<input type="text" name="contactSubject" class="form-control" placeholder="Subject *"
 										 value=""/>
 							</div>
-						</form>
 							 <textarea name="txtMsg" class="form-control" placeholder="Your Message *"
 											 style="width: 100%; height: 150px;"></textarea>
 							<input type="submit" name="btnSubmit" class="btnContact m-2" value="Send Message"/>
@@ -357,6 +307,7 @@
 <div class="row justify-content-center col-md-12">
 	<div class="g-recaptcha" data-sitekey="6LfKEpQUAAAAAA98OHTFmk9jpsrPh170gSaih6u6"></div>
 </div>
+				</form>
 		</section>
 		<!---end contact form--->
 		<div id="output-area"></div>
@@ -364,7 +315,7 @@
 
 		<!-----footer-->
 		<footer class="footer">
-			<div class="container-fluid bg-dark py-5 text-white-50">
+			<div class="container-fluid bg-dark p-5 text-white-50">
 					<div class="row">
 						<div class="col">
 							<div class="row">
