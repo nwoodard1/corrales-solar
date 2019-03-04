@@ -160,7 +160,7 @@
 			</div>
 		</div>
 </section>
-		<!--A fancy line-->
+		<!---A fancy line--->
 		<hr class="my-4">
 		<div class="row text-center d-flex justify-content-center">
 			<div class="col-md-6">
