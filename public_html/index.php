@@ -90,21 +90,20 @@
 					<img src="images/corralessolar1.jpg" height="400" width="600"
 				</div>
 			</div>
+		</div>
 
 			<p class="missionStatement">
 					<div class="container-fluid">
-						<div class="row">
+						<div class="row justify-content-center">
 							<div class="col-md-8 text-center d-flex float">
 								Welcome to our official website. Please look around and contact us with any questions or comments.
 							We believe that anyone can be a part of energy conservation on a small scale, and we would like to
 							help people reach this goal at an affordable cost. Our mission is providing clear customer
 							education, thoughtful design, fair pricing with quality components, careful installation, and
 							responsive service.
-						</p>
 					</div>
 				</div>
 			</div>
-		</div>
 
 
 		<!--A fancy line-->
@@ -164,6 +163,9 @@
 		<!--A fancy line-->
 		<hr class="my-4">
 		<div class="row text-center d-flex justify-content-center">
+			<div class="col-md-6">
+				<img src="images/corralessolar5.jpg" height="400" width="600"
+			</div>
 		<h2>Renewable Energy Facts</h2>
 		</div>
 
@@ -172,9 +174,6 @@
 		<div class="container-fluid">
 			<div class="row text-left d-flex justify-content-left">
 				<div class="col-md-12">
-					<div class="col-md-6">
-						<img src="images/corralessolar5.jpg" height="400" width="600"
-					</div>
 					<div class="container">
 						<p class="Renewable Energy Facts">
 						<ul class="justify-content-center col-md-12">
@@ -192,17 +191,17 @@
 		<!--A fancy line-->
 		<hr class="my-4">
 		<div class="row text-center d-flex justify-content-center">
+			<div class="col-md-6">
+				<img src="images/corralessolar6.jpg" height="400" width="600"
+			</div>
 		<h2>Frequently Asked Questions</h2>
 		</div>
 
 <section id="FAQ">
 	<div class="row text-left d-flex justify-content-left">
-		<div class="containerFaq-fluid">
+		<div class="container-fluid">
 			<div class="row text-left d-flex justify-content-left">
 				<div class="col-md-12">
-					<div class="col-md-6">
-						<img src="images/corralessolar6.jpg" height="400" width="600"
-					</div>
 					<div class="container">
 						<p class="FAQ">
 
@@ -267,7 +266,6 @@
 							<input type="submit" name="btnSubmit" class="btnContact m-2" value="Send Message"/>
 						</div>
 							</div>
-
 						<div class="col-md">
 						</div>
 						</div>
@@ -276,15 +274,13 @@
 	<div class="g-recaptcha" data-sitekey="6LfKEpQUAAAAAA98OHTFmk9jpsrPh170gSaih6u6"></div>
 </div>
 		</section>
-</form>
 		<!---end contact form--->
 		<div id="output-area"></div>
 
 
 		<!-----footer-->
-		<footer>
+		<footer class="footer">
 			<div class="container-fluid bg-dark py-5 text-white-50">
-				<footer class="page-footer">
 					<div class="row">
 						<div class="col">
 							<div class="row">

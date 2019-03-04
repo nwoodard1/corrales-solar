@@ -1,9 +1,4 @@
-html, body {
-	margin: 0;
-	box-sizing: border-box;
-}
-.clearfix {
-	clear: both;
+html {
 }
 
 /*****************************************************
@@ -22,7 +17,7 @@ html, body {
 }
 
 @media only screen and (min-width: 768px) and (max-width: 991px) {
-	.containerFaq-fluid { width: 750px; }
+	.container { width: 750px; }
 }
 
 /* Set the size of the div element that contains the map */
@@ -30,22 +25,18 @@ html, body {
 	height: 200px;  /* The height is 400 pixels */
 	width: 25%;  /* The width is the width of the web page */
 }
-
-#containerFaq-fluid {
-	background-color: blue;
-}
-
 /*corrects IE min-height bug*/
 html { display: flex;}
 body { width: 100%;
 	font-family: monospace}
 
-.sfooter {
+.footer {
 	display: flex;
 	flex-direction: column;
 	min-height: 300vh;
 }
 
-.sfooter-content {
+.footer-content {
 	flex: 1 0 auto;
+	position: absolute;
 }
