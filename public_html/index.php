@@ -83,7 +83,7 @@
 		</div>
 
 		<!---mission statement--->
-		<div id="mission-statement"
+		<div id="mission-statement"></div>
 		<div class="container-fluid">
 			<div class="row justify-content-center">
 				<div class="col-md-6">
@@ -170,7 +170,7 @@
 		</div>
 
 
-<section id="renewable-energy-facts">
+<section id="renewableEnergyFacts">
 		<div class="container-fluid">
 			<div class="row text-left d-flex justify-content-left">
 				<div class="col-md-12">
@@ -260,16 +260,14 @@
 								<input type="text" name="contactSubject" class="form-control" placeholder="Subject *"
 										 value=""/>
 							</div>
-
-								<textarea name="txtMsg" class="form-control" placeholder="Your Message *"
+						</form>
+							 <textarea name="txtMsg" class="form-control" placeholder="Your Message *"
 											 style="width: 100%; height: 150px;"></textarea>
 							<input type="submit" name="btnSubmit" class="btnContact m-2" value="Send Message"/>
 						</div>
 							</div>
 						<div class="col-md">
 						</div>
-						</div>
-							</div>
 <div class="row justify-content-center col-md-12">
 	<div class="g-recaptcha" data-sitekey="6LfKEpQUAAAAAA98OHTFmk9jpsrPh170gSaih6u6"></div>
 </div>
