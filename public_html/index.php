@@ -83,7 +83,7 @@
 		</div>
 
 		<!---mission statement--->
-		<div id="missionStatement"
+		<div id="mission-statement"
 		<div class="container-fluid">
 			<div class="row justify-content-center">
 				<div class="col-md-6">
@@ -170,7 +170,7 @@
 		</div>
 
 
-<section id="renewableEnergyFacts">
+<section id="renewable-energy-facts">
 		<div class="container-fluid">
 			<div class="row text-left d-flex justify-content-left">
 				<div class="col-md-12">
