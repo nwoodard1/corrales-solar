@@ -108,66 +108,35 @@
 
 		<!--A fancy line-->
 		<hr class="my-4">
-
-
-
 		<section id="design">
-		<div class="container-fluid bg-light">
-			<div class="row">
-				<div class="col-md-6">
-					<img src="images/corralessolar2.jpg" height="400" width="600"
-				</div>
-				<p class="Design">
-				</div>
-				<div class="col-md-9">
-					<div class="container my-auto py-5">
-
-
-
-
-
-
-
-		<!---<section id="design">
-			<div class="container-fluid">
-				<div class="row text-center d-flex justify-content-center">
-					<div class="col-sm-9">
-						<div class="container my-auto py-5">
-							<div class="col-md-6">--->
-
-						<h2>Design</h2>We work with owners to size a solar system that will offset as much power as possible, but no more than necessary, using the National Renewable energy Laboratory's PV Watts estimation program.
-					<!---</div>
+			<div class="container-fluid my-auto py-5 bg-light">
+				<div class="row text-center d-flex">
+					<div class="col-md-12">
+						<div class="container"></div>
+						<div class="col-md-6 float-right">
+							<img src="images/corralessolar2.jpg" height="400" width="600"
+						</div>
+					</div>
+					<div class="col-md-6">
+					<h2>Design</h2>We work with owners to size a solar system that will offset as much power as possible, but no more than necessary, using the National Renewable energy Laboratory's PV Watts estimation program.
+					</div>
 				</div>
 			</div>
-		</div>
 		</section>
-			</p>
-				</div>
-			</div>
-		</div>
-	</div>
-</section>--->
-
-				</div>
-			</div>
-		</div>
-</section>
 
 
 		<!--A fancy line-->
 		<hr class="my-4">
-	<section id=installation">
+	<section id="installation">
 		<div class="container-fluid my-auto py-5 bg-secondary">
 			<div class="row text-center d-flex">
 				<div class="col-md-12">
 					<div class="container"></div>
-						<div class="col-md-6">
+						<div class="col-md-6 float-right">
 							<img src="images/corralessolar3.jpg" height="400" width="600"
 						</div>
 				</div>
 				<div class="col-md-6">
-
-
 					<h2>Installation</h2>
 						All Advantage Energy Solutions, LLC and Corrales Solar designs are installed through a contract between the homeowner and Compass Electric Company, a licensed and insured Albuquerque company with extensive experience in solar installation.
 				</div>
@@ -175,27 +144,24 @@
 		</div>
 </section>
 
-
-
-		<!--A fancy line-->
-		<hr class="my-4">
-<section class="services">
-				<div class="container-fluid bg-light">
-					<div class="row">
-							<div class="col-md-6">
-								<img src="images/corralessolar4.jpg" height="400" width="600"
-							</div>
-						<div class="col-md-6">
-							<div class="container my-auto py-5">
-
-								<p class="Services">
-						<h2>Services</h2>Residential or Commercial
-						We can design and oversee installation of PV systems ranging from small, pole-mounted, -grid arrays to  much larger grid-tied rooftop arrays. We are familiar with the application and commissioning process with New Mexico utilities, and the permitting requirements of various municipalities. We provide free site visits and estimates.
-					</div>
-						</div>
+	<!--A fancy line-->
+	<hr class="my-4">
+		<section id="services">
+		<div class="container-fluid my-auto py-5 bg-light">
+			<div class="row text-center d-flex">
+				<div class="col-md-12">
+					<div class="container"></div>
+					<div class="col-md-6 float-right">
+						<img src="images/corralessolar4.jpg" height="400" width="600"
 					</div>
 				</div>
-					</section>
+				<div class="col-md-6">
+						<h2>Services</h2>Residential or Commercial
+						We can design and oversee installation of PV systems ranging from small, pole-mounted, -grid arrays to  much larger grid-tied rooftop arrays. We are familiar with the application and commissioning process with New Mexico utilities, and the permitting requirements of various municipalities. We provide free site visits and estimates.
+				</div>
+			</div>
+		</div>
+		</section>
 
 		<!---A fancy line--->
 		<hr class="my-4">
@@ -205,13 +171,12 @@
 			</div>
 		<h2>Renewable Energy Facts</h2>
 		</div>
-
-
-<section id="renewableEnergyFacts">
+		<section id="renewableEnergyFacts">
 		<div class="container-fluid">
 			<div class="row">
-				<div class="col-md-12 text-left d-flex justify-content ">
+				<div class="col-md-12 text-left d-flex ">
 					<div class="container">
+						<div class="row">
 						<p class="Renewable Energy Facts">
 						<ul class="justify-content-center col-md-12">
 							<li><p> Renewable energy comes from a natural source that is theoretically inexhaustible, and includes wind, solar, biomass, tidal, wave, and hydroelectric. Of these, solar is the most versatile and simplest to site on a residence.</p></li>
@@ -220,6 +185,7 @@
 						<li><p>Small-scale solar remained a niche power source for off-grid use until the invention of the grid-tied inverter, which synchronized solar power with utility grid power, and allowed excess power at a residence to flow onto the grid. This ability to offset utility bills fueled exponential growth in small residential systems, growing distributed rather than centralized power production.</p></li>
 						<li><p>Battery storage of excess power is becoming more affordable and useful as a means of backup power and/or a way to shift load to a less expensive time of day.</p></li>
 						</ul>
+						</div>
 					</div>
 				</div>
 			</div>
@@ -315,9 +281,9 @@
 
 		<!-----footer-->
 		<footer class="footer">
-			<div class="container-fluid bg-dark p-5 text-white-50">
+			<div class="container-fluid bg-dark p-5 m-5 text-white-50">
 					<div class="row">
-						<div class="col">
+						<div class="col-md-12">
 							<div class="row">
 							<p class="text-center col-4">(505) 615-9388</p>
 								<p class="text-center col-4">
@@ -325,7 +291,6 @@
 								<p class="text-center col-4">
 									corrales.solar@gmail.com
 								</p>
-							</div>
 						</div>
 					</div>
 			</div>
