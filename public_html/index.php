@@ -129,25 +129,17 @@
 		<section id="installation">
 			<div class="container-fluid my-auto py-5 bg-secondary">
 				<div class="row text-center d-flex">
-					<!--<div class="col-md-12">-->
-						<div class="container"></div>
-						<div class="col-md-6 float-right">
+						<div class="col-md-6">
 							<img src="images/corralessolar3.jpg" height="400" width="600">
 						</div>
+					<div class="col-md-6"><h2>Installation</h2>
+						All Advantage Energy Solutions, LLC and Corrales Solar designs are installed through a contract between the homeowner and Compass Electric Company, a licensed and insured Albuquerque company with extensive experience in solar installation.</div>
 					</div>
 					<div class="col-md-6">
-
-
-						<h2>Installation</h2>
-						All Advantage Energy Solutions, LLC and Corrales Solar designs are installed through a contract between the homeowner and Compass Electric Company, a licensed and insured Albuquerque company with extensive experience in solar installation.
 					</div>
 				</div>
 		</section>
 
-
-
-		<!--A fancy line-->
-		<hr class="my-4">
 		<!--A fancy line-->
 		<hr class="my-4">
 		<section id="services">
@@ -194,12 +186,13 @@
 					</div>
 				</div>
 			</div>
-		</section>
 
-		<div class="container"></div>
+
 		<!---A fancy line--->
 		<hr class="my-4">
-		<h2 id="FAQ" >Frequently Asked Questions</h2>
+		<div class="container text-center d-flex justify-content-center">
+		<h2 id="FAQ">Frequently Asked Questions</h2>
+		</div>
 		<div class="row text-center d-flex justify-content-center">
 			<div class="col-md-6">
 				<img src="images/corralessolar6.jpg" height="400" width="600">
@@ -283,7 +276,7 @@
 
 		<!-----footer-->
 		<footer class="footer">
-			<div class="container-fluid bg-dark py-5 px-5 mx-5 my-5 text-white-50">
+			<div class="container-fluid bg-dark py-5 mt-5 text-white-50">
 				<div class="row">
 					<div class="col-md-12">
 						<div class="row">
