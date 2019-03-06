@@ -111,15 +111,15 @@
 		<section id="design">
 			<div class="container-fluid my-auto py-5 bg-light">
 				<div class="row text-center d-flex">
-					<div class="col-md-6">
-						<img src="images/corralessolar2.jpg" height="400" width="600"
+					<div class="col-md-6">	<h2>Design</h2>
+						<p>We work with owners to size a solar system that will offset as much power as possible, but no more than necessary, using the National Renewable energy Laboratory's PV Watts estimation program.
+						</p></div>
+					<div class="col-md-6"><img src="images/corralessolar2.jpg" height="400" width="600"></div>
 					</div>
 					<div class="container-fluid justify-content-right">
 						<div class="col-md-12">
-							<h2>Design</h2>We work with owners to size a solar system that will offset as much power as possible, but no more than necessary, using the National Renewable energy Laboratory's PV Watts estimation program.
 						</div>
 					</div>
-				</div>
 			</div>
 		</section>
 
@@ -129,7 +129,7 @@
 		<section id="installation">
 			<div class="container-fluid my-auto py-5 bg-secondary">
 				<div class="row text-center d-flex">
-					<div class="col-md-12">
+					<!--<div class="col-md-12">-->
 						<div class="container"></div>
 						<div class="col-md-6 float-right">
 							<img src="images/corralessolar3.jpg" height="400" width="600"
@@ -142,7 +142,6 @@
 						All Advantage Energy Solutions, LLC and Corrales Solar designs are installed through a contract between the homeowner and Compass Electric Company, a licensed and insured Albuquerque company with extensive experience in solar installation.
 					</div>
 				</div>
-			</div>
 		</section>
 
 
@@ -154,32 +153,29 @@
 		<section id="services">
 			<div class="container-fluid my-auto py-5 bg-light">
 				<div class="row text-center d-flex">
-					<div class="col-md-12">
 						<div class="container"></div>
 						<div class="col-md-6 float-right">
-							<img src="images/corralessolar4.jpg" height="400" width="600"
+							<h2>Services</h2>Residential or Commercial
+							We can design and oversee installation of PV systems ranging from small, pole-mounted, -grid arrays to  much larger grid-tied rooftop arrays. We are familiar with the application and commissioning process with New Mexico utilities, and the permitting requirements of various municipalities. We provide free site visits and estimates.
 						</div>
-					</div>
 					<div class="col-md-6">
-						<h2>Services</h2>Residential or Commercial
-						We can design and oversee installation of PV systems ranging from small, pole-mounted, -grid arrays to  much larger grid-tied rooftop arrays. We are familiar with the application and commissioning process with New Mexico utilities, and the permitting requirements of various municipalities. We provide free site visits and estimates.
+						<img src="images/corralessolar4.jpg" height="400" width="600">
+					</div>
 					</div>
 				</div>
-			</div>
-			</div>
 		</section>
 
 		<!---A fancy line--->
-		<hr class="my-4">
+		<hr class="my-4" id="renewableEnergyFacts">
+		<div class="container text-center d-flex justify-content-center">
+		<h2>Renewable Energy Facts</h2>
+		</div>
 		<div class="row text-center d-flex justify-content-center">
 			<div class="col-md-6">
 				<img src="images/corralessolar5.jpg" height="400" width="600"
 			</div>
-			<h2>Renewable Energy Facts</h2>
+
 		</div>
-
-
-		<section id="renewableEnergyFacts">
 			<div class="container-fluid">
 				<div class="row justify-content-center">
 					<div class="col-md-12 text-left d-flex px-5 mx-5">
@@ -203,14 +199,13 @@
 		<div class="container"></div>
 		<!---A fancy line--->
 		<hr class="my-4">
+		<h2 id="FAQ" >Frequently Asked Questions</h2>
 		<div class="row text-center d-flex justify-content-center">
 			<div class="col-md-6">
 				<img src="images/corralessolar6.jpg" height="400" width="600"
 			</div>
-			<h2>Frequently Asked Questions</h2>
-		</div>
 
-		<section id="FAQ">
+		</div>
 			<div class="row text-left d-flex justify-content-left">
 				<div class="container-fluid">
 					<div class="row text-left d-flex justify-content-left">
