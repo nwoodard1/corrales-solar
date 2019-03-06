@@ -87,7 +87,7 @@
 		<div class="container-fluid">
 			<div class="row justify-content-center">
 				<div class="col-md-6">
-					<img src="images/corralessolar1.jpg" height="400" width="600"
+					<img src="images/corralessolar1.jpg" height="400" width="600">
 				</div>
 			</div>
 		</div>
@@ -132,7 +132,7 @@
 					<!--<div class="col-md-12">-->
 						<div class="container"></div>
 						<div class="col-md-6 float-right">
-							<img src="images/corralessolar3.jpg" height="400" width="600"
+							<img src="images/corralessolar3.jpg" height="400" width="600">
 						</div>
 					</div>
 					<div class="col-md-6">
@@ -172,7 +172,7 @@
 		</div>
 		<div class="row text-center d-flex justify-content-center">
 			<div class="col-md-6">
-				<img src="images/corralessolar5.jpg" height="400" width="600"
+				<img src="images/corralessolar5.jpg" height="400" width="600">
 			</div>
 
 		</div>
@@ -202,7 +202,7 @@
 		<h2 id="FAQ" >Frequently Asked Questions</h2>
 		<div class="row text-center d-flex justify-content-center">
 			<div class="col-md-6">
-				<img src="images/corralessolar6.jpg" height="400" width="600"
+				<img src="images/corralessolar6.jpg" height="400" width="600">
 			</div>
 
 		</div>
@@ -232,7 +232,6 @@
 					</div>
 				</div>
 			</div>
-		</section>
 
 
 		<!-----Contact Form----->
@@ -272,8 +271,6 @@
 												 style="width: 100%; height: 150px;"></textarea>
 									<input type="submit" name="btnSubmit" class="btnContact m-2" value="Send Message"/>
 								</div>
-							</div>
-							<div class="col-md">
 							</div>
 							<div class="row justify-content-center col-md-12">
 								<div class="g-recaptcha" data-sitekey="6LfKEpQUAAAAAA98OHTFmk9jpsrPh170gSaih6u6"></div>
