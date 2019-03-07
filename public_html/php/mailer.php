@@ -1,6 +1,6 @@
 <?php
 /**
- * mailer.php
+ *mailer.php
  *
  * This file handles secure mail transport using the Swiftmailer
  * library with Google reCAPTCHA integration.
@@ -29,9 +29,10 @@ try {
 		 **/
 		$name = filter_input(INPUT_POST, "contactName", FILTER_SANITIZE_STRING, FILTER_FLAG_NO_ENCODE_QUOTES);
 		$email = filter_input(INPUT_POST, "contactEmail", FILTER_SANITIZE_EMAIL, FILTER_FLAG_NO_ENCODE_QUOTES);
-		$phone = filter_input(INPUT_POST, "contactName", FILTER_SANITIZE_STRING, FILTER_FLAG_NO_ENCODE_QUOTES);
+		$phone = filter_input(INPUT_POST, "contactPhone", FILTER_SANITIZE_STRING, FILTER_FLAG_NO_ENCODE_QUOTES);
 		$subject = filter_input(INPUT_POST, "contactMessage", FILTER_SANITIZE_STRING, FILTER_FLAG_NO_ENCODE_QUOTES);
 		$message = filter_input(INPUT_POST, "contactSubject", FILTER_SANITIZE_STRING, FILTER_FLAG_NO_ENCODE_QUOTES);
+
 		// create SendGrid object
 		$emailObject = new \SendGrid\Mail\Mail();
 		/**

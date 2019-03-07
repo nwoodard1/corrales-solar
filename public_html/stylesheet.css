@@ -20,6 +20,7 @@ html {
 	.container { width: 750px; }
 }
 
+
 /* Set the size of the div element that contains the map */
 #map {
 	height: 200px;  /* The height is 400 pixels */
@@ -28,10 +29,8 @@ html {
 /*corrects IE min-height bug*/
 html { display: flex;}
 body { width: 100%;
-	font-family: monospace;
+	font-family: 'Raleway', sans-serif;
 }
-
-
 
 .footer {
 	display: flex;
