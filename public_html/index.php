@@ -308,7 +308,7 @@
 
 
 		<footer>
-			<div class="container-fluid bg-dark py-5 mt-5 text-white-50">
+			<div class="container-fluid bg-dark mt-5 text-white-50">
 				<div class="row">
 					<div class="col-md-12">
 						<div class="row">

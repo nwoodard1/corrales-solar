@@ -39,7 +39,7 @@ $("#contactMe").validate({
 		},
 		contactMessage: {
 			required: true,
-			maxLength: 2000
+			maxlength: 2000
 		}
 	},
 
@@ -47,20 +47,17 @@ $("#contactMe").validate({
 	// error messages to display to the end user when rules above don't pass
 	messages: {
 		contactName: {
-			required: "What's your name, fool?"
+			required: "Please enter a name"
 		},
 		contactEmail: {
-			email: "Why not use a real email?",
-			required: "Why not add an email?"
+			email: "real email required",
+			required: "please add e-mail"
 		},
 		contactMessage: {
-			required: "Why not add a message?",
-			maxLength: "Why not write more?",
-			minLength: "Why not write less?",
+			required: "Please add a message",
+			maxlength: "Max length 2000 characters",
+			minlength: "Min length 10 characters",
 		},
-		//contactSubject: {
-			//maxLength: "Why not write more?"
-		//}
 	},
 
 submitHandler: function(form) {
