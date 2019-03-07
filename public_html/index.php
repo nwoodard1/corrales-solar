@@ -75,7 +75,7 @@
 				<div class="col-sm-1 p-1">
 					<img class="rounded-circle img-fluid my-3" src="images/e.jpg" alt="company logo">
 				</div>
-				<div class=" col-10 text-wrap my-2 py-2">
+				<div class="col-10 text-wrap my-2 py-2">
 					<h1><strong>Welcome to Corrales Solar powered by Advantage Energy Solutions, LLC.</strong></h1>
 				</div>
 			</div>
@@ -90,14 +90,14 @@
 		<div class="container-fluid">
 			<div class="row justify-content-center">
 				<div class="col-md-6">
-					<img class="w-100" src="images/corralessolar1.jpg" height="400" width="600" alt="missionStatement">
+					<img class="w-100 h-100" src="images/corralessolar1.jpg" height="400" width="600" alt="missionStatement">
 				</div>
 			</div>
 		</div>
 
 		<div class="missionStatement">
 		<div class="container-fluid">
-			<div class="row justify-content-center">
+			<div class="row justify-content-center pt-3">
 				<div class="col-md-8 text-center d-flex float">
 					<p class="text">Welcome to our official website. Please look around and contact us with any questions or comments.
 					We believe that anyone can be a part of energy conservation on a small scale, and we would like to
@@ -123,7 +123,7 @@
 					</div>
 
 					<div class="col-md-6">
-						<img class="w-100" src="images/corralessolar2.jpg" height="400" width="600" alt="design">
+						<img class="w-100 h-100" src="images/corralessolar2.jpg" height="400" width="600" alt="design">
 					</div>
 
 					</div>
@@ -144,7 +144,7 @@
 			<div class="container-fluid my-auto py-5 bg-secondary">
 				<div class="row text-center d-flex">
 						<div class="col-md-6">
-							<img class="w-100" src="images/corralessolar3.jpg" height="400" width="600" alt="installation">
+							<img class="w-100 h-100" src="images/corralessolar3.jpg" height="400" width="600" alt="installation">
 						</div>
 
 					<div class="col-md-6">
@@ -173,7 +173,7 @@
 							<p class="text"> Residential or Commercial--We can design and oversee installation of PV systems ranging from small, pole-mounted, -grid arrays to  much larger grid-tied rooftop arrays. We are familiar with the application and commissioning process with New Mexico utilities, and the permitting requirements of various municipalities. We provide free site visits and estimates.</p>
 						</div>
 					<div class="col-md-6">
-						<img class="w-100" src="images/corralessolar4.jpg" height="400" width="600" alt="services">
+						<img class="w-100 h-100" src="images/corralessolar4.jpg" height="400" width="600" alt="services">
 					</div>
 					</div>
 				</div>
@@ -187,9 +187,9 @@
 			<div class="container text-center d-flex justify-content-center">
 		<h2>Renewable Energy Facts</h2>
 		</div>
-		<div class="row text-center d-flex justify-content-center">
+		<div class="row text-center d-flex justify-content-center pb-3">
 			<div class="col-md-6">
-				<img class="w-100" src="images/corralessolar5.jpg" height="400" width="600" alt="renewableEnergyFacts">
+				<img class="w-100 h-100" src="images/corralessolar5.jpg" height="400" width="600" alt="renewableEnergyFacts">
 			</div>
 		</div>
 
@@ -225,7 +225,7 @@
 		</div>
 		<div class="row text-center d-flex justify-content-center">
 			<div class="col-md-6">
-				<img class="w-100" src="images/corralessolar6.jpg" height="400" width="600" alt="FAQ">
+				<img class="w-100 h-100" src="images/corralessolar6.jpg" height="400" width="600" alt="FAQ">
 			</div>
 		</div>
 
@@ -261,12 +261,12 @@
 		<!-- Contact Form -->
 
 		<div id="container-form-map">
-			<div id="map" class="row justify-content-center col-md-12">
+			<div id="map" class="row justify-content-center col-md-12 px-2">
 				<iframe src="https://www.google.com/maps/d/embed?mid=1WPkErNGnttL9KbCcmeCneZYMqH4Jgm1N" width="480" height="360"></iframe>
 			</div>
 
 			<!--form-->
-				<div class="contactWrapper">
+				<div class="contactWrapper pt-2">
 						<div class="form-wrapper">
 					</div>
 					<div class="container contact-form border rounded text-white py-5 px-5 text-wrap">
