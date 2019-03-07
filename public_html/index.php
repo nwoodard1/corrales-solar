@@ -3,14 +3,15 @@
 	<head>
 		<meta charset="UTF-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+		<title>corrales solar</title>
 
-		<!---Custom CSS--->
+		<!-- Custom CSS -->
 		<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
 				integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
 
 
 
-		<!---JS, Popper.js, and jQuery--->
+		<!-- JS, Popper.js, and jQuery -->
 		<script src="https://code.jquery.com/jquery-3.3.1.min.js"
 				  crossorigin="anonymous"></script>
 		<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"
@@ -20,7 +21,7 @@
 				  integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM"
 				  crossorigin="anonymous"></script>
 
-		<!-- jQuery Form, Additional Methods, Validate -CONTACT FORM--->
+		<!-- jQuery Form, Additional Methods, Validate -CONTACT FORM -->
 		<script type="text/javascript"
 				  src="https://cdnjs.cloudflare.com/ajax/libs/jquery.form/4.2.2/jquery.form.min.js"></script>
 		<script type="text/javascript"
@@ -33,10 +34,10 @@
 
 		<!-- Google reCAPTCHA -->
 		<script src='https://www.google.com/recaptcha/api.js'></script>
-		<!---end of contact form link---->
+		<!-- end of contact form link -->
 	</head>
 	<body>
-		<!---header--->
+		<!-- header -->
 		<header>
 			<div class="container">
 				<nav class="navbar navbar-expand-lg navbar-light bg-light border rounded my-3 border border-secondary">
@@ -66,7 +67,7 @@
 			</div>
 		</header>
 
-		<!--Card with logo-->
+		<!-- Card with logo -->
 		<div class="container-welcome">
 			<div class="row text-center d-flex justify-content-center m-auto">
 				<div class="col-sm-1 p-1">
@@ -82,12 +83,12 @@
 			</div>
 		</div>
 
-		<!---mission statement--->
+		<!-- mission statement -->
 		<div id="mission-statement"></div>
 		<div class="container-fluid">
 			<div class="row justify-content-center">
 				<div class="col-md-6">
-					<img src="images/corralessolar1.jpg" height="400" width="600">
+					<img src="images/corralessolar1.jpg" height="400" width="600" alt="missionStatement">
 				</div>
 			</div>
 		</div>
@@ -106,7 +107,7 @@
 		</div>
 
 
-		<!--A fancy line-->
+		<!-- A fancy line -->
 		<hr class="my-4">
 		<section id="design">
 			<div class="container-fluid my-auto py-5 bg-light">
@@ -114,7 +115,7 @@
 					<div class="col-md-6">	<h2>Design</h2>
 						<p>We work with owners to size a solar system that will offset as much power as possible, but no more than necessary, using the National Renewable energy Laboratory's PV Watts estimation program.
 						</p></div>
-					<div class="col-md-6"><img src="images/corralessolar2.jpg" height="400" width="600"></div>
+					<div class="col-md-6"><img src="images/corralessolar2.jpg" height="400" width="600" alt="design"></div>
 					</div>
 					<div class="container-fluid justify-content-right">
 						<div class="col-md-12">
@@ -124,13 +125,13 @@
 		</section>
 
 
-		<!--A fancy line-->
+		<!-- A fancy line -->
 		<hr class="my-4">
 		<section id="installation">
 			<div class="container-fluid my-auto py-5 bg-secondary">
 				<div class="row text-center d-flex">
 						<div class="col-md-6">
-							<img src="images/corralessolar3.jpg" height="400" width="600">
+							<img src="images/corralessolar3.jpg" height="400" width="600" alt="installation">
 						</div>
 					<div class="col-md-6"><h2>Installation</h2>
 						All Advantage Energy Solutions, LLC and Corrales Solar designs are installed through a contract between the homeowner and Compass Electric Company, a licensed and insured Albuquerque company with extensive experience in solar installation.</div>
@@ -140,7 +141,7 @@
 				</div>
 		</section>
 
-		<!--A fancy line-->
+		<!-- A fancy line -->
 		<hr class="my-4">
 		<section id="services">
 			<div class="container-fluid my-auto py-5 bg-light">
@@ -151,20 +152,20 @@
 							We can design and oversee installation of PV systems ranging from small, pole-mounted, -grid arrays to  much larger grid-tied rooftop arrays. We are familiar with the application and commissioning process with New Mexico utilities, and the permitting requirements of various municipalities. We provide free site visits and estimates.
 						</div>
 					<div class="col-md-6">
-						<img src="images/corralessolar4.jpg" height="400" width="600">
+						<img src="images/corralessolar4.jpg" height="400" width="600" alt="services">
 					</div>
 					</div>
 				</div>
 		</section>
 
-		<!---A fancy line--->
+		<!-- A fancy line -->
 		<hr class="my-4" id="renewableEnergyFacts">
 		<div class="container text-center d-flex justify-content-center">
 		<h2>Renewable Energy Facts</h2>
 		</div>
 		<div class="row text-center d-flex justify-content-center">
 			<div class="col-md-6">
-				<img src="images/corralessolar5.jpg" height="400" width="600">
+				<img src="images/corralessolar5.jpg" height="400" width="600" alt="renewableEnergyFacts">
 			</div>
 
 		</div>
@@ -188,14 +189,14 @@
 			</div>
 
 
-		<!---A fancy line--->
+		<!-- A fancy line -->
 		<hr class="my-4">
 		<div class="container text-center d-flex justify-content-center">
 		<h2 id="FAQ">Frequently Asked Questions</h2>
 		</div>
 		<div class="row text-center d-flex justify-content-center">
 			<div class="col-md-6">
-				<img src="images/corralessolar6.jpg" height="400" width="600">
+				<img src="images/corralessolar6.jpg" height="400" width="600" alt="FAQ">
 			</div>
 
 		</div>
@@ -227,16 +228,16 @@
 			</div>
 
 
-		<!-----Contact Form----->
+		<!-- Contact Form -->
 
-		<section id="container-form-map">
+		<div id="container-form-map">
 			<div id="map" class="row justify-content-center col-md-12">
 				<iframe src="https://www.google.com/maps/d/embed?mid=1WPkErNGnttL9KbCcmeCneZYMqH4Jgm1N" width="480" height="360"></iframe>
 			</div>
 
-			<form>
+			<!--<form>-->
 				<div class="contactWrapper">
-					<div class="form-wrapper">
+						<div class="form-wrapper">
 					</div>
 					<div class="container contact-form border rounded text-white py-5 px-5 text-wrap">
 						<form id="contactMe" action="php/mailer.php" method="post">
@@ -269,13 +270,15 @@
 								<div class="g-recaptcha" data-sitekey="6LfKEpQUAAAAAA98OHTFmk9jpsrPh170gSaih6u6"></div>
 							</div>
 						</form>
-		</section>
-		<!---end contact form--->
+					</div>
+			</div>
+		</div>
+		<!-- end contact form -->
 		<div id="output-area"></div>
 
 
-		<!-----footer-->
-		<footer class="footer">
+		<!-- footer -->
+		<footer>
 			<div class="container-fluid bg-dark py-5 mt-5 text-white-50">
 				<div class="row">
 					<div class="col-md-12">
@@ -289,7 +292,7 @@
 						</div>
 					</div>
 				</div>
+			</div>
 		</footer>
-	</body>
 </html>
 
