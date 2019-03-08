@@ -301,15 +301,15 @@
 
 
 	<footer>
-		<div class="container-fluid bg-dark mx-5 px-5 pt-5 text-white-50">
+		<div class="container bg-dark pt-5 text-white-50">
 			<div class="row">
 				<div class="col-md-12">
 					<div class="row">
-						<p class="text-center col-4">
+						<p class="text-center col-12">
 							(505) 615-9388</p>
-						<p class="text-center col-4">
+						<p class="text-center col-12">
 							Corrales, NM</p>
-						<p class="text-center col-4">
+						<p class="text-center col-12">
 							corrales.solar@gmail.com</p>
 					</div>
 				</div>
