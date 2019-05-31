@@ -263,7 +263,7 @@
 				<div class="form-wrapper">
 				</div>
 				<div class="container contact-form border rounded text-white p-5 text-wrap">
-					<form id="contactMe" action="php/mailer.php" method="post">
+					<form id="contactMe" action="../php/mailer.php" method="post">
 						<div class="row">
 							<h3 class="text-center col-12 text-dark" ><strong>Contact Us</strong></h3>
 							<div class="col-md-6">
