@@ -23,8 +23,8 @@ html {
 
 /* Set the size of the div element that contains the map */
 #map {
-	height: 200px;  /* The height is 400 pixels */
-	width: 25%;  /* The width is the width of the web page */
+	height: 25vh;  /* The height is 400 pixels */
+	width: 25vw; /* The width is the width of the web page */
 }
 /*corrects IE min-height bug*/
 html { display: flex;}
